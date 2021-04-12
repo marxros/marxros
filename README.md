@@ -1,5 +1,4 @@
 # Marx Roberto
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/marxros?style=social)](https://twitter.com/marxros)
 [![Linkedin: marx-roberto](https://img.shields.io/badge/marxroberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marx-roberto/)](https://www.linkedin.com/in/marx-roberto/)
 [![GitHub Marx](https://img.shields.io/github/followers/marxros?label=follow&style=social)](https://github.com/marxros)
 
