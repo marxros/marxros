@@ -9,5 +9,4 @@
 I'm Marx Roberto
 I'm a full stack developer :computer:
 
-- :rocket:   I’m currently working developing softwares for public services ****
 - :computer:  Node, ReactJS, React Native, Typescript, PHP
